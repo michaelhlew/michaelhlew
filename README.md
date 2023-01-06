@@ -2,7 +2,7 @@
 
 I am a senior at American University where I am majoring in Data Science and International Relations (IR), as well as minor in Chinese. I have experience using R, SQL, HTML, and Python. 
 
-In the past, I have leveraged my Data Science and IR knowledge to work on topics like... 
+In the past, I have leveraged my technical skills and subject-matter knowledge to work on topics like ...
 - Analyzing energy dependency in Europe
 - Using data analytics to combat international human trafficking
 - Investigating intellectual property theft
