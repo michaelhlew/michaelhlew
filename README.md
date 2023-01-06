@@ -5,7 +5,7 @@ I am a senior at American University where I am majoring in Data Science and Int
 In the past, I have leveraged my Data Science and IR knowledge to work on topics like... 
 - Analyzing energy dependency in Europe
 - Using data analytics to combat international human trafficking
-- Examining intellectual property theft
+- Investigating intellectual property theft
 - Evaluating corporate ownership networks and financials
 - And more!
 
