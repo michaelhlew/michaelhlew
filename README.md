@@ -9,7 +9,7 @@ In the past, I have leveraged my technical skills and subject-matter knowledge t
 - Evaluating corporate ownership networks and financials
 - And more!
 
-For more information about me and contact information see my personal website.
+For more information about me and contact information see below.
 
 Thanks for taking the time to check out my work :)
 
