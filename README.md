@@ -1,15 +1,10 @@
-### Hi, I’m Michael! 👋
+### Hi, I’m Michael! Welcome to my GitHub 👋
 
-I am a senior at American University where I am majoring in Data Science and International Relations (IR), as well as minor in Chinese. I have experience using R, Python, SQL, and HTML. 
+I am an independent researcher and spend my free time digging into a wide variety of datasets. I graduated from American University where I studied international relations, statistics and data science, and Chinese. I am proficient in R, Python, SQL, and HTML. 
 
-In the past, I have leveraged my technical skills and subject-matter knowledge to work on topics like ...
-- Analyzing energy dependency in Europe
-- Using data analytics to combat international human trafficking
-- Investigating intellectual property theft
-- Evaluating corporate ownership networks and financials
-- And more!
-
-For more information about me and contact information see below.
-
-Thanks for taking the time to check out my work :)
-
+My most recent projects include, 
+•	Examining parking ticket enforcement patterns in Washington D.C.
+•	Building a Twitter bot to translate and analyze foreign social media trends.
+•	Using bibliometric data to examine international research collaboration on mRNA vaccines. 
+•	Analyzing energy trade and dependence in Europe. 
+•	Evaluating corporate ownership networks and financial records. 
